@@ -31,7 +31,7 @@ Currently learning advanced web frameworks and exploring cloud deployment.
 ---
 
 📫 **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/krushil-patel-109b31302) | [Email](mailto:krushilpatel2112@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/krushil-patel-109b31302) | [Email](mailto:patel9zb@uwindsor.ca)
 
 ---
 
