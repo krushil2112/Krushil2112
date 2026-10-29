@@ -1,38 +1,22 @@
-# 👋 Hi, I'm Krushil Patel  
+# Hi there, I'm Krushil Patel 👋
 
-🎓 **Master of Applied Computing (MAC)** student at the **University of Windsor**, passionate about building efficient and user-focused software systems.  
-
-💻 I love working with:
-**Python, C, React, Node.js, and Cloud Technologies (AWS).**  
-Currently learning advanced web frameworks and exploring cloud deployment.
+Software Engineer and recent Master of Applied Computing graduate from the University of Windsor. Specialized in backend development, scalable REST APIs, and cloud-native architecture.
 
 ---
 
-### 🚀 About Me
-- 📍 Based in Windsor, Ontario, Canada  
-- 🔍 Seeking **Co-op / Internship opportunities** starting **January 2026**  
-- 🌱 Actively improving my full-stack development and cloud skills  
-- 🧩 Interested in AI, backend APIs, and scalable system design  
+### 🛠️ Technical Toolkit
+* **Languages & Frameworks:** Python (FastAPI, Flask), C, .NET, SQL
+* **Backend & Cloud:** RESTful APIs, Microservices, Microsoft Azure, Docker, CI/CD, Git
+* **Databases & Tools:** MySQL, Linux, VS Code, Postman
+* **Security & Best Practices:** OWASP Secure Coding Principles, Integration Testing
 
 ---
 
-### 🧠 Tech Stack
-**Languages:** Python, C, JavaScript, SQL  
-**Frontend:** React, HTML5, CSS3  
-**Backend:** Node.js, Express.js, Flask  
-**Cloud / Tools:** AWS, Docker, Git, Linux  
+### 🚀 Featured Projects
+* **[Vehicle Fleet Telemetry Dashboard](https://github.com/krushil2112)**: Real-time backend service built with Python, FastAPI, and SQL to process vehicle diagnostics, containerized via Docker and deployed on Microsoft Azure.
+* **[Corporate Expense Management API](https://github.com/krushil2112)**: Secure Flask & SQL backend service designed for multi-tier corporate expense tracking with JWT authentication and automated testing following OWASP guidelines.
 
 ---
 
-### 📈 Current Goals
-- Develop and publish 2 real-world full-stack apps  
-- Contribute to open-source projects on GitHub  
-
----
-
-📫 **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/krushil-patel-109b31302) | [Email](mailto:patel9zb@uwindsor.ca)
-
----
-
-⭐️ *Thanks for visiting! Feel free to check out my repositories and connect!*
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/krushil-patel-109b31302/) | [Email](mailto:patel9zb@uwindsor.ca)
